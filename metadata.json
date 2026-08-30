@@ -1,0 +1,6 @@
+{
+  "name": "Cadence",
+  "description": "A personal and team productivity platform focused on daily tasks, work progress, consistency, streaks, and analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
